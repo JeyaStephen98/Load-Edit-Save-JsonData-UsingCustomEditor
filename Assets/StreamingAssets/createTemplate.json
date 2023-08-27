@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "type": "Image",
+            "name": "Image",
+            "text": "",
+            "font_size": 0,
+            "font_color": "",
+            "action": "",
+            "image_url": "",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "child": []
+        },
+        {
+            "type": "Button",
+            "name": "Button",
+            "text": "",
+            "font_size": 0,
+            "font_color": "",
+            "action": "",
+            "image_url": "",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "child": []
+        },
+        {
+            "type": "Text",
+            "name": "Text",
+            "text": "",
+            "font_size": 0,
+            "font_color": "",
+            "action": "",
+            "image_url": "",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "child": []
+        },
+        {
+            "type": "RawImage",
+            "name": "RawImage",
+            "text": "",
+            "font_size": 0,
+            "font_color": "",
+            "action": "",
+            "image_url": "",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "child": []
+        }
+    ]
+}
