@@ -1,5 +1,11 @@
 # Load-Edit-Save-JsonData-UsingCustomEditor
 
+-Windows menu -> JsonEditor -> Open customEditor.
+
+-Load Json Data, Edit Json Data, Save Json Data, Instantiate to Unity Editor.
+
+-Edit Values from the Unity Editor and select the save option All changes will be stored in a JSON file.
+
 **Two json file are already created.**
 
 **Template.Json**
